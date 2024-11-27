@@ -1,0 +1,16 @@
+C:\Users\aziz0\RiderProjects\Case8\Case8\bin\Debug\net5.0\Case8.exe
+C:\Users\aziz0\RiderProjects\Case8\Case8\bin\Debug\net5.0\Case8.deps.json
+C:\Users\aziz0\RiderProjects\Case8\Case8\bin\Debug\net5.0\Case8.runtimeconfig.json
+C:\Users\aziz0\RiderProjects\Case8\Case8\bin\Debug\net5.0\Case8.runtimeconfig.dev.json
+C:\Users\aziz0\RiderProjects\Case8\Case8\bin\Debug\net5.0\Case8.dll
+C:\Users\aziz0\RiderProjects\Case8\Case8\bin\Debug\net5.0\ref\Case8.dll
+C:\Users\aziz0\RiderProjects\Case8\Case8\bin\Debug\net5.0\Case8.pdb
+C:\Users\aziz0\RiderProjects\Case8\Case8\obj\Debug\net5.0\Case8.csproj.AssemblyReference.cache
+C:\Users\aziz0\RiderProjects\Case8\Case8\obj\Debug\net5.0\Case8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aziz0\RiderProjects\Case8\Case8\obj\Debug\net5.0\Case8.AssemblyInfoInputs.cache
+C:\Users\aziz0\RiderProjects\Case8\Case8\obj\Debug\net5.0\Case8.AssemblyInfo.cs
+C:\Users\aziz0\RiderProjects\Case8\Case8\obj\Debug\net5.0\Case8.csproj.CoreCompileInputs.cache
+C:\Users\aziz0\RiderProjects\Case8\Case8\obj\Debug\net5.0\Case8.dll
+C:\Users\aziz0\RiderProjects\Case8\Case8\obj\Debug\net5.0\ref\Case8.dll
+C:\Users\aziz0\RiderProjects\Case8\Case8\obj\Debug\net5.0\Case8.pdb
+C:\Users\aziz0\RiderProjects\Case8\Case8\obj\Debug\net5.0\Case8.genruntimeconfig.cache
